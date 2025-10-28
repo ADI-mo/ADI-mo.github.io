@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color:#0050A0; margin-bottom: 0;">Adi moses</h1>
+  <h1 style="color:#0050A0; margin-bottom: 0;">Adi Moses</h1>
   <h3 style="color:#555; font-style:italic; font-weight:normal; margin-top: 5px;">
     M.Sc. Student in Biology at the Weizmann Institute
   </h3>
@@ -29,3 +29,42 @@ I am currently doing a research rotation in the <a href="httpsRead-only" target=
   <em>Bar-Ilan University, Ramat Gan</em>
 </div>
 <img width="373" height="241" alt="image" src="https://github.com/user-attachments/assets/bfe596b4-b9fe-44c4-b7e6-b6f00c6854e2" />
+
+<table width="100%" background="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Weizmann_Institute_of_Science_-_Libraries_Building.jpg/1280px-Weizmann_Institute_of_Science_-_Libraries_Building.jpg">
+  <tr>
+    <td>
+      
+      <div align="center">
+        <h1 style="color:#FFFFFF; text-shadow: 2px 2px 4px #000000;">Maya Cohen</h1>
+        <h3 style="color:#FFFFFF; font-style:italic; font-weight:normal; text-shadow: 1px 1px 2px #000000;">
+          M.Sc. Student in Biology at the Weizmann Institute
+        </h3>
+      </div>
+      
+      <hr style="height:2px; border:none; background-color:#FFFFFF;" />
+
+      <div style="background-color: rgba(0, 0, 0, 0.5); color: white; padding: 15px; border-radius: 8px; border-left: 5px solid #007BFF; text-align: left;">
+        👋 Welcome! I'm an M.Sc. student in Biology at the Weizmann Institute of Science.
+      </div>
+
+      <h2 style="color: #FFFFFF; text-shadow: 2px 2px 4px #000000; margin-top: 1.5em; text-align: left;">🔬 Current Research</h2>
+      
+      <p style="color: white; text-shadow: 1px 1px 2px #000000; text-align: left;">
+        I am currently doing a research rotation in the <a href="https://www.weizmann.ac.il/plants/segev/" target="_blank" style="color: #ADD8E6;">lab of Dr. Einat Segev</a>.
+      </p>
+
+      <h2 style="color: #FFFFFF; text-shadow: 2px 2px 4px #000000; margin-top: 1.5em; text-align: left;">🎓 Education</h2>
+
+      <div style="color: white; text-shadow: 1px 1px 2px #000000; text-align: left; margin-bottom: 1em;">
+        <strong>M.Sc. in Biology</strong><br>
+        <em>Weizmann Institute of Science, Rehovot (Present)</em>
+      </div>
+
+      <div style="color: white; text-shadow: 1px 1px 2px #000000; text-align: left;">
+        <strong>B.Sc. in Biotechnology</strong><br>
+        <em>Bar-Ilan University, Ramat Gan</em>
+      </div>
+      
+      <br><br> </td>
+  </tr>
+</table>
