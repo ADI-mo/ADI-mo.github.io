@@ -1,7 +1,5 @@
 <div align="center">
-  <h1 style="color:#004A99; margin-bottom: 0;">Arad Zulti</h1>
-  <h3 style="color:#555; font-style:italic; font-weight:normal; margin-top: 5px;">Computational Biology Researcher</h3>
-</div>
+  <h1 style="color:#004A99; margin-bottom: 0;">Adi Moses</h1>
 
 <hr style="height:1px; border:none; background-color:#B0C4DE; margin-top: 1em; margin-bottom: 2em;" />
 
