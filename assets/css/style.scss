@@ -3,3 +3,105 @@
 @import "{{ site.theme }}";
 
 /* כאן יתווסף עיצוב מותאם אישית */
+/* -------------------------------------- */
+/* 1. הגדרות בסיסיות ויישור עברית */
+/* -------------------------------------- */
+
+body {
+    font-family: 'Times New Roman', serif; /* גופן קלאסי ומכובד */
+    background-color: #fafafa; /* רקע לבן-אפור עדין */
+    color: #2c3e50; /* כחול-אפור כהה לטקסט ראשי */
+    direction: rtl; /* יישור מימין לשמאל */
+    text-align: right;
+    line-height: 1.7; /* רווח שורות נוח לקריאה */
+}
+
+/* -------------------------------------- */
+/* 2. עיצוב כותרות והדגשים */
+/* -------------------------------------- */
+
+h1, h2, h3 {
+    font-family: 'Arial', sans-serif; /* גופן מודרני יותר לכותרות */
+    color: #34495e; /* צבע הדגשה כהה ומקצועי */
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 2.5em;
+    border-bottom: 3px solid #3498db; /* קו הדגשה כחול מתחת לכותרת הראשית */
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/* -------------------------------------- */
+/* 3. עיצוב קישורים וכפתורים (קריטי ל-CV ו-GitHub) */
+/* -------------------------------------- */
+
+a {
+    color: #3498db; /* כחול אקדמי וברור */
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: #2980b9;
+    text-decoration: underline;
+}
+
+/* כפתורים להורדה (כמו קורות חיים או מאמר) */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+    background-color: #2ecc71; /* ירוק שקט להדגשת פעולה */
+    color: white !important;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn:hover {
+    background-color: #27ae60;
+    text-decoration: none;
+}
+
+/* -------------------------------------- */
+/* 4. עיצוב סעיף מחקר/תיק עבודות */
+/* -------------------------------------- */
+
+#portfolio-section {
+    padding: 60px 20px;
+    background-color: #ecf0f1; /* רקע מעט כהה יותר לסקשן המרכזי */
+}
+
+.project-card {
+    border: 1px solid #bdc3c7;
+    border-radius: 8px;
+    padding: 25px;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    background-color: white; /* הכרטיס עצמו לבן */
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* רשימת טכנולוגיות/כלים/שיטות */
+.tech-list {
+    list-style: none;
+    padding: 0;
+}
+
+.tech-list li {
+    display: inline-block;
+    background-color: #3498db; /* כחול לכישורים */
+    color: white;
+    padding: 5px 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 3px;
+    font-size: 0.85em;
+    font-weight: 500;
+}
