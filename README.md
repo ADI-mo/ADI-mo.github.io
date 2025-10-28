@@ -30,8 +30,6 @@ I am currently doing a research rotation in the <a href="httpsRead-only" target=
 </div>
 <img width="373" height="241" alt="image" src="https://github.com/user-attachments/assets/bfe596b4-b9fe-44c4-b7e6-b6f00c6854e2" />
 
-<table width="100%" background="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Weizmann_Institute_of_Science_-_Libraries_Building.jpg/1280px-Weizmann_Institute_of_Science_-_Libraries_Building.jpg">
-  <tr>
-    <td>
+
       
       
