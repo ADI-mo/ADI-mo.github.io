@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color:#0050A0; margin-bottom: 0;">Maya Cohen</h1>
+  <h1 style="color:#0050A0; margin-bottom: 0;">Adi moses</h1>
   <h3 style="color:#555; font-style:italic; font-weight:normal; margin-top: 5px;">
     M.Sc. Student in Biology at the Weizmann Institute
   </h3>
@@ -14,10 +14,8 @@
 <h2 style="color: #0050A0; margin-top: 1.5em; text-align: left;">🔬 Current Research</h2>
 
 <p style="text-align: left;">
-I am currently doing a research rotation in the <a href="httpsRead-only" target="_blank">lab of Dr. Einat Segev</a>, where we are studying... (You can add your rotation topic here)
+I am currently doing a research rotation in the <a href="httpsRead-only" target="_blank">lab of Dr. Einat Segev</a>.
 </p>
-
-<img src="" alt="ספריית מכון ויצמן" style="width:100%; max-width:600px; border-radius: 8px; margin-top: 1em; margin-bottom: 1.5em;" />
 
 <h2 style="color: #0050A0; margin-top: 1.5em; text-align: left;">🎓 Education</h2>
 
@@ -30,3 +28,4 @@ I am currently doing a research rotation in the <a href="httpsRead-only" target=
   <strong>B.Sc. in Biotechnology</strong><br>
   <em>Bar-Ilan University, Ramat Gan</em>
 </div>
+<img width="373" height="241" alt="image" src="https://github.com/user-attachments/assets/bfe596b4-b9fe-44c4-b7e6-b6f00c6854e2" />
