@@ -1,14 +1,20 @@
 <div align="center">
-  <h1 style="color:#004A99; margin-bottom: 0;">Adi Moses</h1>
+  <h1 style="color:#0050A0; margin-bottom: 0;">Maya Cohen</h1>
+  <h3 style="color:#555; font-style:italic; font-weight:normal; margin-top: 5px;">
+    M.Sc. Student in Biology at the Weizmann Institute
+  </h3>
+</div>
 
-<hr style="height:1px; border:none; background-color:#B0C4DE; margin-top: 1em; margin-bottom: 2em;" />
+<hr style="height:2px; border:none; background-color:#007BFF; margin-top: 1em; margin-bottom: 2em;" />
 
-> 👋 **Welcome!** I'm a computational biology researcher passionate about applying mathematical and computational methods to biological problems.
+<div style="background-color: #F0F8FF; padding: 15px; border-radius: 8px; border-left: 5px solid #007BFF; text-align: left;">
+👋 Welcome! I'm an M.Sc. student in Biology at the Weizmann Institute of Science, researching... (You can add your research topic here)
+</div>
 
-## 👤 About Me
+<h2 style="color: #0050A0; margin-top: 1.5em; text-align: left;">👤 About Me</h2>
 
-Born in 1998, I'm currently pursuing my academic journey at the intersection of mathematics, computer science, and biology.
+<p style="text-align: left;">
+Following my undergraduate studies, I am continuing my academic journey by specializing in biology. I am particularly interested in the fields of...
+</p>
 
-## 🎓 Education
-
-(כאן יבוא התוכן של ההשכלה)
+<h2 style="color: #00
