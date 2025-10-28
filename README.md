@@ -14,10 +14,9 @@
 <h2 style="color: #0050A0; margin-top: 1.5em; text-align: left;">🔬 Current Research</h2>
 
 <p style="text-align: left;">
-I am currently doing a research rotation in the <a href="https://www.weizmann.ac.il/plants/segev/" target="_blank">lab of Dr. Einat Segev</a>, where we are studying... (You can add your rotation topic here)
+I am currently doing a research rotation in the <a href="https://www.weizmann.ac.il/plants/segev/" target="_blank">lab of Dr. Einat Segev</a>.
 </p>
 
-<img src="http://googleusercontent.com/image_collection/image_retrieval/16827173314784562992_0" alt="Weizmann Institute Campus" style="width:100%; max-width:600px; border-radius: 8px; margin-top: 1em; margin-bottom: 1.5em;" />
 
 <h2 style="color: #0050A0; margin-top: 1.5em; text-align: left;">🎓 Education</h2>
 
