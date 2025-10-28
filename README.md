@@ -1,3 +1,3 @@
-# Welcome           
-ADI-mo.github.io
-gem "github-pages", group: :jekyll_plugins
+#welcome 
+##my name is adi i am a Master's student
+
