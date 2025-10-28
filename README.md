@@ -8,13 +8,25 @@
 <hr style="height:2px; border:none; background-color:#007BFF; margin-top: 1em; margin-bottom: 2em;" />
 
 <div style="background-color: #F0F8FF; padding: 15px; border-radius: 8px; border-left: 5px solid #007BFF; text-align: left;">
-👋 Welcome! I'm an M.Sc. student in Biology at the Weizmann Institute of Science, researching... (You can add your research topic here)
+👋 Welcome! I'm an M.Sc. student in Biology at the Weizmann Institute of Science.
 </div>
 
-<h2 style="color: #0050A0; margin-top: 1.5em; text-align: left;">👤 About Me</h2>
+<h2 style="color: #0050A0; margin-top: 1.5em; text-align: left;">🔬 Current Research</h2>
 
 <p style="text-align: left;">
-Following my undergraduate studies, I am continuing my academic journey by specializing in biology. I am particularly interested in the fields of...
+I am currently doing a research rotation in the <a href="https://www.weizmann.ac.il/plants/segev/" target="_blank">lab of Dr. Einat Segev</a>, where we are studying... (You can add your rotation topic here)
 </p>
 
-<h2 style="color: #00
+<img src="http://googleusercontent.com/image_collection/image_retrieval/16827173314784562992_0" alt="Weizmann Institute Campus" style="width:100%; max-width:600px; border-radius: 8px; margin-top: 1em; margin-bottom: 1.5em;" />
+
+<h2 style="color: #0050A0; margin-top: 1.5em; text-align: left;">🎓 Education</h2>
+
+<div style="text-align: left; margin-bottom: 1em;">
+  <strong>M.Sc. in Biology</strong><br>
+  <em>Weizmann Institute of Science, Rehovot (Present)</em>
+</div>
+
+<div style="text-align: left;">
+  <strong>B.Sc. in Biotechnology</strong><br>
+  <em>Bar-Ilan University, Ramat Gan</em>
+</div>
