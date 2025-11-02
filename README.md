@@ -14,7 +14,7 @@
 <h2 style="color: #0050A0; margin-top: 1.5em; text-align: left;">🔬 Current Research</h2>
 
 <p style="text-align: left;">
-I am currently doing a research rotation in the <a href="httpsRead-only" target="_blank">lab of Dr. Einat Segev</a>.
+I am currently doing a research rotation in the  [lab of Dr. Einat Segev](https://www.weizmann.ac.il/plants/segev/).
 </p>
 
 <h2 style="color: #0050A0; margin-top: 1.5em; text-align: left;">🎓 Education</h2>
