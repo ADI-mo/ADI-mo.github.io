@@ -14,7 +14,8 @@
 <h2 style="color: #0050A0; margin-top: 1.5em; text-align: left;">🔬 Current Research</h2>
 
 <p style="text-align: left;">
-I am currently doing a research rotation in the <a href="https://www.weizmann.ac.il/plants/segev/" target="_blank">lab of Dr. Einat Segev</a> ,My research deals with starvation conditions in marine bacteria, and testing of PHA carbon storage granules.
+I am currently doing a research rotation in the <a href="https://www.weizmann.ac.il/plants/segev/" target="_blank">lab of Dr. Einat Segev</a> .
+My research deals with starvation conditions in marine bacteria, and testing of PHA carbon storage granules.
 
 <h2 style="color: #0050A0; margin-top: 1.5em; text-align: left;">🎓 Education</h2>
 
